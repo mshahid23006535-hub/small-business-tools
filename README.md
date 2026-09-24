@@ -2,9 +2,8 @@
 
 A curated, independent guide to the best **free online calculators** for small business owners, covering pricing, marketing, finance, health, and everyday math.
 
-**🔗 Live site:** [https://YOUR-USERNAME.github.io/small-business-tools/](https://YOUR-USERNAME.github.io/small-business-tools/)
+**🔗 Live site:** [https://mshahid23006535-hub.github.io/small-business-tools/](https://mshahid23006535-hub.github.io/small-business-tools/)
 
-> Replace `YOUR-USERNAME` above with your GitHub username after publishing.
 
 ---
 
