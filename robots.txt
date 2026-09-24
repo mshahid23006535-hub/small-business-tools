@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mshahid23006535-hub.github.io/small-business-tools/sitemap.xml
